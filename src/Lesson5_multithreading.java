@@ -8,9 +8,6 @@
 
 
 
-
-
-
-
 public class Lesson5_multithreading {
+
 }
