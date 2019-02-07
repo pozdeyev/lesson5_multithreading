@@ -66,6 +66,9 @@ public class Lesson5_multithreading {
         */
         long secondTime = secondBiThreadMethod(array);
 
+        System.out.printf("Вычисление в два потока выполняются быстрее, чем в один поток на: %d мсек",
+                firstTime - secondTime);
+
     }
 
     /**
